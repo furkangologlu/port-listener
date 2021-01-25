@@ -6,7 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": "furkangologlu/port-listener",
+  "keywords": [
+    "port-listener",
+    "listen-port",
+    "port"
+  ],
+  "author": "Furkan Göloğlu <furkangologlu@outlook.com.tr>",
   "license": "ISC"
 }
