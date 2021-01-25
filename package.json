@@ -1,7 +1,7 @@
 {
   "name": "port-listener",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple port listener with javascript",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,9 @@
     "port"
   ],
   "dependencies": {},
+  "bin": {
+    "port-listener" : "./app.js"
+  },
   "author": "Furkan Göloğlu <furkangologlu@outlook.com.tr>",
   "license": "ISC"
 }
