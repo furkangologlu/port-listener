@@ -12,6 +12,7 @@
     "listen-port",
     "port"
   ],
+  "dependencies": {},
   "author": "Furkan Göloğlu <furkangologlu@outlook.com.tr>",
   "license": "ISC"
 }
