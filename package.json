@@ -1,6 +1,6 @@
 {
   "name": "port-listener",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "simple port listener with javascript",
   "main": "app.js",
   "scripts": {
@@ -12,9 +12,11 @@
     "listen-port",
     "port"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "commander": "^7.0.0"
+  },
   "bin": {
-    "port-listener" : "./app.js"
+    "port-listener": "./app.js"
   },
   "author": "Furkan Göloğlu <furkangologlu@outlook.com.tr>",
   "license": "ISC"
